@@ -28,7 +28,7 @@ Run in the project root directory:
 3. **Launch the backend server**  
 Open a new terminal window and navigate to the server directory:
    ```bash
-  cd server
+   cd server
   
 Then start the server:
    ```bash
