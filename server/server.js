@@ -14,7 +14,7 @@ app.use(morgan('dev')); // 日志记录
 // 配置AI面试官专项训练 API客户端
 const openai = new OpenAI({
   baseURL: 'https://api.deepseek.com',
-  apiKey: 'sk-060e9e35e0d84dada5ed2e7aa618d3f0'
+  apiKey: '' //改为你自己的API KEY
 });
 
 // 健康检查路由
