@@ -19,14 +19,17 @@ Follow these steps to launch the application:
    Run in the project root directory:
    ```bash
    npm i
+   
 2. **Start the client application**  
 Run in the project root directory:
    ```bash
-  npm run dev
+   npm run dev
+   
 3. **Launch the backend server**  
 Open a new terminal window and navigate to the server directory:
    ```bash
   cd server
+  
 Then start the server:
    ```bash
   npm start
